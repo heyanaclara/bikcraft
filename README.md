@@ -14,7 +14,6 @@ Desenvolvido com as seguintes ferramentas:
 * CSS3
 * JavaScript
 
-<a id="como-executar-o-projeto"></a>
 ## :point_right: Como executar o projeto
 ```
 - Clone o repositório:
@@ -23,3 +22,5 @@ $ git clone https://github.com/heyanaclara/bikcraft.git
 - Entre no diretório:
 $ cd bikcraft
 ```
+
+###[:mortar_board: Certificado do Curso](https://www.origamid.com/certificate/0a2c4db6/)
