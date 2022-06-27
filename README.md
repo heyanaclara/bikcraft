@@ -23,4 +23,4 @@ $ git clone https://github.com/heyanaclara/bikcraft.git
 $ cd bikcraft
 ```
 
-###[:mortar_board: Certificado do Curso](https://www.origamid.com/certificate/0a2c4db6/)
+[:mortar_board: Certificado do Curso](https://www.origamid.com/certificate/0a2c4db6/)
