@@ -7,7 +7,7 @@
 # :bike: Sobre o Projeto
 Projeto fictício realizado durante o curso de Web Design Completo da Origamid, consiste em um site de venda de bicicletas personalizadas.
 
-#⚡ Tecnologias
+# ⚡ Tecnologias
 Desenvolvido com as seguintes ferramentas:
 
 * HTML5
